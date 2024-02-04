@@ -20,6 +20,7 @@ h2 {
 }
 
 ul {
+    display: block;
     list-style-type: none;
     margin-top: 50px;
     padding: 0;
@@ -27,6 +28,9 @@ ul {
 
 li {
     display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 15px 20px;
     margin: 0 20px;
 }
 
