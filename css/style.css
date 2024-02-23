@@ -86,3 +86,9 @@ footer a {
     background-color: black;
     color: white;
 }
+
+.disable{
+    pointer-events: none;
+    cursor: default;
+    text-decoration: line-through;
+}
