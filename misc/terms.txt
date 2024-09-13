@@ -1,0 +1,7 @@
+all of the services offered by this site are provided "as is" with no warranty of any kind,
+either express or implied, including, but not limited to,
+the implied warranties of merchantability and fitness for a particular purpose.
+the owner of this site shall not be liable for any damages,
+including any general, special,incidental or consequential damages arising out of the use or inability to use any of the services offered by this site.
+
+Services with registration are for authorized users only, any unauthorized access is prohibited.
